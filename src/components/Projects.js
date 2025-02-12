@@ -17,6 +17,7 @@ export const Projects = () => {
       title: "NewsHub",
       description: "This is a news app in which you find latest news of different feild like sports, entertainment,sceince and many more.....",
       imgUrl: projImg1,
+      url:"www.google.com"
     },
     {
       title: "BusinessHub",
